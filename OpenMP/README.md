@@ -2,7 +2,7 @@
 
 ## Resumen
 
-Este programa crea hilos de ejecucion para cada core. Imprime una cadena de caracteres pro cada llamada
+Este programa crea hilos de ejecucion para cada core. Imprime una cadena de caracteres por cada llamada
 
 ## Para Compilar
 
